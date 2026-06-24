@@ -1,0 +1,51 @@
+body
+{
+background-color: black;
+/* color: #76660f; */
+font-style: inherit;
+
+}
+
+
+.O
+{
+color: rgb(241, 206, 6);
+margin-left: 45%;
+padding-top:10px;
+border-bottom: coral solid ;
+display:inline-block ;
+
+}
+
+.I
+{
+
+     color: rgb(193, 195, 209); 
+     /*
+   background-color: rgb(86, 89, 117);
+   border: 2px solid black;
+  overflow: auto;
+
+  padding: auto; */
+
+   width: 300px;
+    height: 100px;
+    border: 2px solid black;
+    overflow: auto;
+
+}
+
+
+.OLO
+{
+     width: 300px;
+    height: 100px;
+color: brown;
+border: 20px solid rgb(50, 10, 10);
+overflow: auto;
+
+}
+
+
+
+
