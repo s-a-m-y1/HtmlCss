@@ -9,11 +9,14 @@ font-style: inherit;
 
 .O
 {
+/* text-shadow: horizontal vertical blur color;   */
 color: rgb(241, 206, 6);
-margin-left: 45%;
-padding-top:10px;
+text-decoration:value;
+/* margin-left: 45%;
+padding-top:10px; */
+text-align: center;
 border-bottom: coral solid ;
-display:inline-block ;
+/* display:inline-block ; */
 
 }
 
