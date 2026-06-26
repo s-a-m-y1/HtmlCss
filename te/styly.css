@@ -1,0 +1,14 @@
+div {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+
+  width: calc((100%-85px) / 5);
+  margin-left: 5%;
+  background-color: rgb(218, 205, 205);
+  float: left;
+}
+
+body {
+  margin: 0;
+}
